@@ -1,0 +1,27 @@
+{
+    "name": "vuepress-page-manifest",
+    "version": "1.0.0",
+    "description": "Vuepress plugin to write a page manifest",
+    "main": "index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bliles/vuepress-page-manifest.git"
+    },
+    "keywords": [
+      "vue",
+      "vuepress",
+      "generator"
+    ],
+    "dependencies": {
+      "@vuepress/shared-utils": "^1.0.2"
+    },
+    "author": "Brandon Liles <brandon.liles@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/bliles/vuepress-page-manifest/issues"
+    },
+    "homepage": "https://github.com/bliles/vuepress-page-manifest"
+  }
