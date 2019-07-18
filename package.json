@@ -1,5 +1,5 @@
 {
-    "name": "vuepress-page-manifest",
+    "name": "vuepress-plugin-manifest",
     "version": "1.0.0",
     "description": "Vuepress plugin to write a page manifest",
     "main": "index.js",
@@ -23,5 +23,5 @@
     "bugs": {
       "url": "https://github.com/bliles/vuepress-page-manifest/issues"
     },
-    "homepage": "https://github.com/bliles/vuepress-page-manifest"
+    "homepage": "https://github.com/bliles/vuepress-page-manifest#readme"
   }
